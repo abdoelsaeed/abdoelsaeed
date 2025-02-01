@@ -45,10 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdoelsaeed/abdoelsaeed/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">📩 Contact Me:<br><br>-LinkedIn: https://www.linkedin.com/in/abdelrahman-mohamed-211112223/<br><br>-Mail: abdoelsaeed290@gmail.com<br><br>-phone: (+20)1147440577</h3>
 
 ###
